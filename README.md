@@ -3,7 +3,7 @@ DGS - DotLAN Galeriesauger
 
 Dieses Skript saugt eine DotLAN-Galerie auf die lokale Platte.
 
-Es setzt eine wget-Installation vorraus
+Es setzt eine wget-Installation voraus und python 2.6/2.7
 
 Die Konstanten HOST, GALERY_ID und COUNT am Skriptanfang müssen gesetzt werden
 Danach kann das Skript mit Python ausgeführt werden und lädt die Bilder in den
